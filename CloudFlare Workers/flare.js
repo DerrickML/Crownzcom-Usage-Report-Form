@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx1TUvxAOSVnHVb83opXcYU9vPI2QfWmJCoSzctHMGFptqZcF2dWoHGRvCKkBMQhDTu/exec';
+const GOOGLE_SCRIPT_URL = 'Google_Apps_Script_URL';
 
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
